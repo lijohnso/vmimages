@@ -1,0 +1,7 @@
+MD5Sum
+005dacb15811be6a8242a28d91dc9d86  xenial-snat.qcow2
+64442e1b2ea93cd364add420ff27a838  xenial-trex.qcow2
+
+SHA256Sum
+eb531caa11b82e7fabeb1ff54dc64a70b81443e1f42c24c8e205f65eb517457a  xenial-snat.qcow2
+a928a96e5838f8eb8cc09a1808c61be69af3f6e1f26bf6ae16868760059aea41  xenial-trex.qcow2
